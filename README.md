@@ -1,2 +1,2 @@
-# Wag-Corporation
+# wagcorporation
 Gadget and Widget manufacture retail Customer Project
